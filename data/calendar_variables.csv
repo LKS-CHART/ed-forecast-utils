@@ -1,0 +1,530 @@
+ds,holiday,country,year
+1995-01-01,New Year's Day,Canada,1995
+1995-01-02,New Year's Day (Observed),Canada,1995
+1995-04-14,Good Friday,Canada,1995
+1995-05-22,Victoria Day,Canada,1995
+1995-07-01,Canada Day,Canada,1995
+1995-07-03,Canada Day (Observed),Canada,1995
+1995-08-07,Civic Holiday,Canada,1995
+1995-09-04,Labour Day,Canada,1995
+1995-10-09,Thanksgiving,Canada,1995
+1995-12-25,Christmas Day,Canada,1995
+1995-12-26,Boxing Day,Canada,1995
+1996-01-01,New Year's Day,Canada,1996
+1996-04-05,Good Friday,Canada,1996
+1996-05-20,Victoria Day,Canada,1996
+1996-07-01,Canada Day,Canada,1996
+1996-08-05,Civic Holiday,Canada,1996
+1996-09-02,Labour Day,Canada,1996
+1996-10-14,Thanksgiving,Canada,1996
+1996-12-25,Christmas Day,Canada,1996
+1996-12-26,Boxing Day,Canada,1996
+1997-01-01,New Year's Day,Canada,1997
+1997-03-28,Good Friday,Canada,1997
+1997-05-19,Victoria Day,Canada,1997
+1997-07-01,Canada Day,Canada,1997
+1997-08-04,Civic Holiday,Canada,1997
+1997-09-01,Labour Day,Canada,1997
+1997-10-13,Thanksgiving,Canada,1997
+1997-12-25,Christmas Day,Canada,1997
+1997-12-26,Boxing Day,Canada,1997
+1998-01-01,New Year's Day,Canada,1998
+1998-04-10,Good Friday,Canada,1998
+1998-05-18,Victoria Day,Canada,1998
+1998-07-01,Canada Day,Canada,1998
+1998-08-03,Civic Holiday,Canada,1998
+1998-09-07,Labour Day,Canada,1998
+1998-10-12,Thanksgiving,Canada,1998
+1998-12-25,Christmas Day,Canada,1998
+1998-12-28,Boxing Day (Observed),Canada,1998
+1999-01-01,New Year's Day,Canada,1999
+1999-04-02,Good Friday,Canada,1999
+1999-05-24,Victoria Day,Canada,1999
+1999-07-01,Canada Day,Canada,1999
+1999-08-02,Civic Holiday,Canada,1999
+1999-09-06,Labour Day,Canada,1999
+1999-10-11,Thanksgiving,Canada,1999
+1999-12-24,Christmas Day (Observed),Canada,1999
+1999-12-25,Christmas Day,Canada,1999
+1999-12-27,Boxing Day (Observed),Canada,1999
+1999-12-31,New Year's Day (Observed),Canada,1999
+2000-01-01,New Year's Day,Canada,2000
+2000-04-21,Good Friday,Canada,2000
+2000-05-22,Victoria Day,Canada,2000
+2000-07-01,Canada Day,Canada,2000
+2000-07-03,Canada Day (Observed),Canada,2000
+2000-08-07,Civic Holiday,Canada,2000
+2000-09-04,Labour Day,Canada,2000
+2000-10-09,Thanksgiving,Canada,2000
+2000-12-25,Christmas Day,Canada,2000
+2000-12-26,Boxing Day,Canada,2000
+2001-01-01,New Year's Day,Canada,2001
+2001-04-13,Good Friday,Canada,2001
+2001-05-21,Victoria Day,Canada,2001
+2001-07-01,Canada Day,Canada,2001
+2001-07-02,Canada Day (Observed),Canada,2001
+2001-08-06,Civic Holiday,Canada,2001
+2001-09-03,Labour Day,Canada,2001
+2001-10-08,Thanksgiving,Canada,2001
+2001-12-25,Christmas Day,Canada,2001
+2001-12-26,Boxing Day,Canada,2001
+2002-01-01,New Year's Day,Canada,2002
+2002-03-29,Good Friday,Canada,2002
+2002-05-20,Victoria Day,Canada,2002
+2002-07-01,Canada Day,Canada,2002
+2002-08-05,Civic Holiday,Canada,2002
+2002-09-02,Labour Day,Canada,2002
+2002-10-14,Thanksgiving,Canada,2002
+2002-12-25,Christmas Day,Canada,2002
+2002-12-26,Boxing Day,Canada,2002
+2003-01-01,New Year's Day,Canada,2003
+2003-04-18,Good Friday,Canada,2003
+2003-05-19,Victoria Day,Canada,2003
+2003-07-01,Canada Day,Canada,2003
+2003-08-04,Civic Holiday,Canada,2003
+2003-09-01,Labour Day,Canada,2003
+2003-10-13,Thanksgiving,Canada,2003
+2003-12-25,Christmas Day,Canada,2003
+2003-12-26,Boxing Day,Canada,2003
+2004-01-01,New Year's Day,Canada,2004
+2004-04-09,Good Friday,Canada,2004
+2004-05-24,Victoria Day,Canada,2004
+2004-07-01,Canada Day,Canada,2004
+2004-08-02,Civic Holiday,Canada,2004
+2004-09-06,Labour Day,Canada,2004
+2004-10-11,Thanksgiving,Canada,2004
+2004-12-24,Christmas Day (Observed),Canada,2004
+2004-12-25,Christmas Day,Canada,2004
+2004-12-27,Boxing Day (Observed),Canada,2004
+2004-12-31,New Year's Day (Observed),Canada,2004
+2005-01-01,New Year's Day,Canada,2005
+2005-03-25,Good Friday,Canada,2005
+2005-05-23,Victoria Day,Canada,2005
+2005-07-01,Canada Day,Canada,2005
+2005-08-01,Civic Holiday,Canada,2005
+2005-09-05,Labour Day,Canada,2005
+2005-10-10,Thanksgiving,Canada,2005
+2005-12-25,Christmas Day,Canada,2005
+2005-12-26,Christmas Day (Observed),Canada,2005
+2005-12-27,Boxing Day (Observed),Canada,2005
+2006-01-01,New Year's Day,Canada,2006
+2006-01-02,New Year's Day (Observed),Canada,2006
+2006-04-14,Good Friday,Canada,2006
+2006-05-22,Victoria Day,Canada,2006
+2006-07-01,Canada Day,Canada,2006
+2006-07-03,Canada Day (Observed),Canada,2006
+2006-08-07,Civic Holiday,Canada,2006
+2006-09-04,Labour Day,Canada,2006
+2006-10-09,Thanksgiving,Canada,2006
+2006-12-25,Christmas Day,Canada,2006
+2006-12-26,Boxing Day,Canada,2006
+2007-01-01,New Year's Day,Canada,2007
+2007-04-06,Good Friday,Canada,2007
+2007-05-21,Victoria Day,Canada,2007
+2007-07-01,Canada Day,Canada,2007
+2007-07-02,Canada Day (Observed),Canada,2007
+2007-08-06,Civic Holiday,Canada,2007
+2007-09-03,Labour Day,Canada,2007
+2007-10-08,Thanksgiving,Canada,2007
+2007-12-25,Christmas Day,Canada,2007
+2007-12-26,Boxing Day,Canada,2007
+2008-01-01,New Year's Day,Canada,2008
+2008-02-18,Family Day,Canada,2008
+2008-03-21,Good Friday,Canada,2008
+2008-05-19,Victoria Day,Canada,2008
+2008-07-01,Canada Day,Canada,2008
+2008-08-04,Civic Holiday,Canada,2008
+2008-09-01,Labour Day,Canada,2008
+2008-10-13,Thanksgiving,Canada,2008
+2008-12-25,Christmas Day,Canada,2008
+2008-12-26,Boxing Day,Canada,2008
+2009-01-01,New Year's Day,Canada,2009
+2009-02-16,Family Day,Canada,2009
+2009-04-10,Good Friday,Canada,2009
+2009-05-18,Victoria Day,Canada,2009
+2009-07-01,Canada Day,Canada,2009
+2009-08-03,Civic Holiday,Canada,2009
+2009-09-07,Labour Day,Canada,2009
+2009-10-12,Thanksgiving,Canada,2009
+2009-12-25,Christmas Day,Canada,2009
+2009-12-28,Boxing Day (Observed),Canada,2009
+2010-01-01,New Year's Day,Canada,2010
+2010-02-15,Family Day,Canada,2010
+2010-04-02,Good Friday,Canada,2010
+2010-05-24,Victoria Day,Canada,2010
+2010-07-01,Canada Day,Canada,2010
+2010-08-02,Civic Holiday,Canada,2010
+2010-09-06,Labour Day,Canada,2010
+2010-10-11,Thanksgiving,Canada,2010
+2010-12-24,Christmas Day (Observed),Canada,2010
+2010-12-25,Christmas Day,Canada,2010
+2010-12-27,Boxing Day (Observed),Canada,2010
+2010-12-31,New Year's Day (Observed),Canada,2010
+2011-01-01,New Year's Day,Canada,2011
+2011-02-21,Family Day,Canada,2011
+2011-04-22,Good Friday,Canada,2011
+2011-05-23,Victoria Day,Canada,2011
+2011-07-01,Canada Day,Canada,2011
+2011-08-01,Civic Holiday,Canada,2011
+2011-09-05,Labour Day,Canada,2011
+2011-10-10,Thanksgiving,Canada,2011
+2011-12-25,Christmas Day,Canada,2011
+2011-12-26,Christmas Day (Observed),Canada,2011
+2011-12-27,Boxing Day (Observed),Canada,2011
+2012-01-01,New Year's Day,Canada,2012
+2012-01-02,New Year's Day (Observed),Canada,2012
+2012-02-20,Family Day,Canada,2012
+2012-04-06,Good Friday,Canada,2012
+2012-05-21,Victoria Day,Canada,2012
+2012-07-01,Canada Day,Canada,2012
+2012-07-02,Canada Day (Observed),Canada,2012
+2012-08-06,Civic Holiday,Canada,2012
+2012-09-03,Labour Day,Canada,2012
+2012-10-08,Thanksgiving,Canada,2012
+2012-12-25,Christmas Day,Canada,2012
+2012-12-26,Boxing Day,Canada,2012
+2013-01-01,New Year's Day,Canada,2013
+2013-02-18,Family Day,Canada,2013
+2013-03-29,Good Friday,Canada,2013
+2013-05-20,Victoria Day,Canada,2013
+2013-07-01,Canada Day,Canada,2013
+2013-08-05,Civic Holiday,Canada,2013
+2013-09-02,Labour Day,Canada,2013
+2013-10-14,Thanksgiving,Canada,2013
+2013-12-25,Christmas Day,Canada,2013
+2013-12-26,Boxing Day,Canada,2013
+2014-01-01,New Year's Day,Canada,2014
+2014-02-17,Family Day,Canada,2014
+2014-04-18,Good Friday,Canada,2014
+2014-05-19,Victoria Day,Canada,2014
+2014-07-01,Canada Day,Canada,2014
+2014-08-04,Civic Holiday,Canada,2014
+2014-09-01,Labour Day,Canada,2014
+2014-10-13,Thanksgiving,Canada,2014
+2014-12-25,Christmas Day,Canada,2014
+2014-12-26,Boxing Day,Canada,2014
+2015-01-01,New Year's Day,Canada,2015
+2015-02-16,Family Day,Canada,2015
+2015-04-03,Good Friday,Canada,2015
+2015-05-18,Victoria Day,Canada,2015
+2015-07-01,Canada Day,Canada,2015
+2015-08-03,Civic Holiday,Canada,2015
+2015-09-07,Labour Day,Canada,2015
+2015-10-12,Thanksgiving,Canada,2015
+2015-12-25,Christmas Day,Canada,2015
+2015-12-28,Boxing Day (Observed),Canada,2015
+2016-01-01,New Year's Day,Canada,2016
+2016-02-15,Family Day,Canada,2016
+2016-03-25,Good Friday,Canada,2016
+2016-05-23,Victoria Day,Canada,2016
+2016-07-01,Canada Day,Canada,2016
+2016-08-01,Civic Holiday,Canada,2016
+2016-09-05,Labour Day,Canada,2016
+2016-10-10,Thanksgiving,Canada,2016
+2016-12-25,Christmas Day,Canada,2016
+2016-12-26,Christmas Day (Observed),Canada,2016
+2016-12-27,Boxing Day (Observed),Canada,2016
+2017-01-01,New Year's Day,Canada,2017
+2017-01-02,New Year's Day (Observed),Canada,2017
+2017-02-20,Family Day,Canada,2017
+2017-04-14,Good Friday,Canada,2017
+2017-05-22,Victoria Day,Canada,2017
+2017-07-01,Canada Day,Canada,2017
+2017-07-03,Canada Day (Observed),Canada,2017
+2017-08-07,Civic Holiday,Canada,2017
+2017-09-04,Labour Day,Canada,2017
+2017-10-09,Thanksgiving,Canada,2017
+2017-12-25,Christmas Day,Canada,2017
+2017-12-26,Boxing Day,Canada,2017
+2018-01-01,New Year's Day,Canada,2018
+2018-02-19,Family Day,Canada,2018
+2018-03-30,Good Friday,Canada,2018
+2018-05-21,Victoria Day,Canada,2018
+2018-07-01,Canada Day,Canada,2018
+2018-07-02,Canada Day (Observed),Canada,2018
+2018-08-06,Civic Holiday,Canada,2018
+2018-09-03,Labour Day,Canada,2018
+2018-10-08,Thanksgiving,Canada,2018
+2018-12-25,Christmas Day,Canada,2018
+2018-12-26,Boxing Day,Canada,2018
+2019-01-01,New Year's Day,Canada,2019
+2019-02-18,Family Day,Canada,2019
+2019-04-19,Good Friday,Canada,2019
+2019-05-20,Victoria Day,Canada,2019
+2019-07-01,Canada Day,Canada,2019
+2019-08-05,Civic Holiday,Canada,2019
+2019-09-02,Labour Day,Canada,2019
+2019-10-14,Thanksgiving,Canada,2019
+2019-12-25,Christmas Day,Canada,2019
+2019-12-26,Boxing Day,Canada,2019
+2020-01-01,New Year's Day,Canada,2020
+2020-02-17,Family Day,Canada,2020
+2020-04-10,Good Friday,Canada,2020
+2020-05-18,Victoria Day,Canada,2020
+2020-07-01,Canada Day,Canada,2020
+2020-08-03,Civic Holiday,Canada,2020
+2020-09-07,Labour Day,Canada,2020
+2020-10-12,Thanksgiving,Canada,2020
+2020-12-25,Christmas Day,Canada,2020
+2020-12-28,Boxing Day (Observed),Canada,2020
+2021-01-01,New Year's Day,Canada,2021
+2021-02-15,Family Day,Canada,2021
+2021-04-02,Good Friday,Canada,2021
+2021-05-24,Victoria Day,Canada,2021
+2021-07-01,Canada Day,Canada,2021
+2021-08-02,Civic Holiday,Canada,2021
+2021-09-06,Labour Day,Canada,2021
+2021-10-11,Thanksgiving,Canada,2021
+2021-12-24,Christmas Day (Observed),Canada,2021
+2021-12-25,Christmas Day,Canada,2021
+2021-12-27,Boxing Day (Observed),Canada,2021
+2021-12-31,New Year's Day (Observed),Canada,2021
+2022-01-01,New Year's Day,Canada,2022
+2022-02-21,Family Day,Canada,2022
+2022-04-15,Good Friday,Canada,2022
+2022-05-23,Victoria Day,Canada,2022
+2022-07-01,Canada Day,Canada,2022
+2022-08-01,Civic Holiday,Canada,2022
+2022-09-05,Labour Day,Canada,2022
+2022-10-10,Thanksgiving,Canada,2022
+2022-12-25,Christmas Day,Canada,2022
+2022-12-26,Christmas Day (Observed),Canada,2022
+2022-12-27,Boxing Day (Observed),Canada,2022
+2023-01-01,New Year's Day,Canada,2023
+2023-01-02,New Year's Day (Observed),Canada,2023
+2023-02-20,Family Day,Canada,2023
+2023-04-07,Good Friday,Canada,2023
+2023-05-22,Victoria Day,Canada,2023
+2023-07-01,Canada Day,Canada,2023
+2023-07-03,Canada Day (Observed),Canada,2023
+2023-08-07,Civic Holiday,Canada,2023
+2023-09-04,Labour Day,Canada,2023
+2023-10-09,Thanksgiving,Canada,2023
+2023-12-25,Christmas Day,Canada,2023
+2023-12-26,Boxing Day,Canada,2023
+2024-01-01,New Year's Day,Canada,2024
+2024-02-19,Family Day,Canada,2024
+2024-03-29,Good Friday,Canada,2024
+2024-05-20,Victoria Day,Canada,2024
+2024-07-01,Canada Day,Canada,2024
+2024-08-05,Civic Holiday,Canada,2024
+2024-09-02,Labour Day,Canada,2024
+2024-10-14,Thanksgiving,Canada,2024
+2024-12-25,Christmas Day,Canada,2024
+2024-12-26,Boxing Day,Canada,2024
+2025-01-01,New Year's Day,Canada,2025
+2025-02-17,Family Day,Canada,2025
+2025-04-18,Good Friday,Canada,2025
+2025-05-19,Victoria Day,Canada,2025
+2025-07-01,Canada Day,Canada,2025
+2025-08-04,Civic Holiday,Canada,2025
+2025-09-01,Labour Day,Canada,2025
+2025-10-13,Thanksgiving,Canada,2025
+2025-12-25,Christmas Day,Canada,2025
+2025-12-26,Boxing Day,Canada,2025
+2026-01-01,New Year's Day,Canada,2026
+2026-02-16,Family Day,Canada,2026
+2026-04-03,Good Friday,Canada,2026
+2026-05-18,Victoria Day,Canada,2026
+2026-07-01,Canada Day,Canada,2026
+2026-08-03,Civic Holiday,Canada,2026
+2026-09-07,Labour Day,Canada,2026
+2026-10-12,Thanksgiving,Canada,2026
+2026-12-25,Christmas Day,Canada,2026
+2026-12-28,Boxing Day (Observed),Canada,2026
+2027-01-01,New Year's Day,Canada,2027
+2027-02-15,Family Day,Canada,2027
+2027-03-26,Good Friday,Canada,2027
+2027-05-24,Victoria Day,Canada,2027
+2027-07-01,Canada Day,Canada,2027
+2027-08-02,Civic Holiday,Canada,2027
+2027-09-06,Labour Day,Canada,2027
+2027-10-11,Thanksgiving,Canada,2027
+2027-12-24,Christmas Day (Observed),Canada,2027
+2027-12-25,Christmas Day,Canada,2027
+2027-12-27,Boxing Day (Observed),Canada,2027
+2027-12-31,New Year's Day (Observed),Canada,2027
+2028-01-01,New Year's Day,Canada,2028
+2028-02-21,Family Day,Canada,2028
+2028-04-14,Good Friday,Canada,2028
+2028-05-22,Victoria Day,Canada,2028
+2028-07-01,Canada Day,Canada,2028
+2028-07-03,Canada Day (Observed),Canada,2028
+2028-08-07,Civic Holiday,Canada,2028
+2028-09-04,Labour Day,Canada,2028
+2028-10-09,Thanksgiving,Canada,2028
+2028-12-25,Christmas Day,Canada,2028
+2028-12-26,Boxing Day,Canada,2028
+2029-01-01,New Year's Day,Canada,2029
+2029-02-19,Family Day,Canada,2029
+2029-03-30,Good Friday,Canada,2029
+2029-05-21,Victoria Day,Canada,2029
+2029-07-01,Canada Day,Canada,2029
+2029-07-02,Canada Day (Observed),Canada,2029
+2029-08-06,Civic Holiday,Canada,2029
+2029-09-03,Labour Day,Canada,2029
+2029-10-08,Thanksgiving,Canada,2029
+2029-12-25,Christmas Day,Canada,2029
+2029-12-26,Boxing Day,Canada,2029
+2030-01-01,New Year's Day,Canada,2030
+2030-02-18,Family Day,Canada,2030
+2030-04-19,Good Friday,Canada,2030
+2030-05-20,Victoria Day,Canada,2030
+2030-07-01,Canada Day,Canada,2030
+2030-08-05,Civic Holiday,Canada,2030
+2030-09-02,Labour Day,Canada,2030
+2030-10-14,Thanksgiving,Canada,2030
+2030-12-25,Christmas Day,Canada,2030
+2030-12-26,Boxing Day,Canada,2030
+2031-01-01,New Year's Day,Canada,2031
+2031-02-17,Family Day,Canada,2031
+2031-04-11,Good Friday,Canada,2031
+2031-05-19,Victoria Day,Canada,2031
+2031-07-01,Canada Day,Canada,2031
+2031-08-04,Civic Holiday,Canada,2031
+2031-09-01,Labour Day,Canada,2031
+2031-10-13,Thanksgiving,Canada,2031
+2031-12-25,Christmas Day,Canada,2031
+2031-12-26,Boxing Day,Canada,2031
+2032-01-01,New Year's Day,Canada,2032
+2032-02-16,Family Day,Canada,2032
+2032-03-26,Good Friday,Canada,2032
+2032-05-24,Victoria Day,Canada,2032
+2032-07-01,Canada Day,Canada,2032
+2032-08-02,Civic Holiday,Canada,2032
+2032-09-06,Labour Day,Canada,2032
+2032-10-11,Thanksgiving,Canada,2032
+2032-12-24,Christmas Day (Observed),Canada,2032
+2032-12-25,Christmas Day,Canada,2032
+2032-12-27,Boxing Day (Observed),Canada,2032
+2032-12-31,New Year's Day (Observed),Canada,2032
+2033-01-01,New Year's Day,Canada,2033
+2033-02-21,Family Day,Canada,2033
+2033-04-15,Good Friday,Canada,2033
+2033-05-23,Victoria Day,Canada,2033
+2033-07-01,Canada Day,Canada,2033
+2033-08-01,Civic Holiday,Canada,2033
+2033-09-05,Labour Day,Canada,2033
+2033-10-10,Thanksgiving,Canada,2033
+2033-12-25,Christmas Day,Canada,2033
+2033-12-26,Christmas Day (Observed),Canada,2033
+2033-12-27,Boxing Day (Observed),Canada,2033
+2034-01-01,New Year's Day,Canada,2034
+2034-01-02,New Year's Day (Observed),Canada,2034
+2034-02-20,Family Day,Canada,2034
+2034-04-07,Good Friday,Canada,2034
+2034-05-22,Victoria Day,Canada,2034
+2034-07-01,Canada Day,Canada,2034
+2034-07-03,Canada Day (Observed),Canada,2034
+2034-08-07,Civic Holiday,Canada,2034
+2034-09-04,Labour Day,Canada,2034
+2034-10-09,Thanksgiving,Canada,2034
+2034-12-25,Christmas Day,Canada,2034
+2034-12-26,Boxing Day,Canada,2034
+2035-01-01,New Year's Day,Canada,2035
+2035-02-19,Family Day,Canada,2035
+2035-03-23,Good Friday,Canada,2035
+2035-05-21,Victoria Day,Canada,2035
+2035-07-01,Canada Day,Canada,2035
+2035-07-02,Canada Day (Observed),Canada,2035
+2035-08-06,Civic Holiday,Canada,2035
+2035-09-03,Labour Day,Canada,2035
+2035-10-08,Thanksgiving,Canada,2035
+2035-12-25,Christmas Day,Canada,2035
+2035-12-26,Boxing Day,Canada,2035
+2036-01-01,New Year's Day,Canada,2036
+2036-02-18,Family Day,Canada,2036
+2036-04-11,Good Friday,Canada,2036
+2036-05-19,Victoria Day,Canada,2036
+2036-07-01,Canada Day,Canada,2036
+2036-08-04,Civic Holiday,Canada,2036
+2036-09-01,Labour Day,Canada,2036
+2036-10-13,Thanksgiving,Canada,2036
+2036-12-25,Christmas Day,Canada,2036
+2036-12-26,Boxing Day,Canada,2036
+2037-01-01,New Year's Day,Canada,2037
+2037-02-16,Family Day,Canada,2037
+2037-04-03,Good Friday,Canada,2037
+2037-05-18,Victoria Day,Canada,2037
+2037-07-01,Canada Day,Canada,2037
+2037-08-03,Civic Holiday,Canada,2037
+2037-09-07,Labour Day,Canada,2037
+2037-10-12,Thanksgiving,Canada,2037
+2037-12-25,Christmas Day,Canada,2037
+2037-12-28,Boxing Day (Observed),Canada,2037
+2038-01-01,New Year's Day,Canada,2038
+2038-02-15,Family Day,Canada,2038
+2038-04-23,Good Friday,Canada,2038
+2038-05-24,Victoria Day,Canada,2038
+2038-07-01,Canada Day,Canada,2038
+2038-08-02,Civic Holiday,Canada,2038
+2038-09-06,Labour Day,Canada,2038
+2038-10-11,Thanksgiving,Canada,2038
+2038-12-24,Christmas Day (Observed),Canada,2038
+2038-12-25,Christmas Day,Canada,2038
+2038-12-27,Boxing Day (Observed),Canada,2038
+2038-12-31,New Year's Day (Observed),Canada,2038
+2039-01-01,New Year's Day,Canada,2039
+2039-02-21,Family Day,Canada,2039
+2039-04-08,Good Friday,Canada,2039
+2039-05-23,Victoria Day,Canada,2039
+2039-07-01,Canada Day,Canada,2039
+2039-08-01,Civic Holiday,Canada,2039
+2039-09-05,Labour Day,Canada,2039
+2039-10-10,Thanksgiving,Canada,2039
+2039-12-25,Christmas Day,Canada,2039
+2039-12-26,Christmas Day (Observed),Canada,2039
+2039-12-27,Boxing Day (Observed),Canada,2039
+2040-01-01,New Year's Day,Canada,2040
+2040-01-02,New Year's Day (Observed),Canada,2040
+2040-02-20,Family Day,Canada,2040
+2040-03-30,Good Friday,Canada,2040
+2040-05-21,Victoria Day,Canada,2040
+2040-07-01,Canada Day,Canada,2040
+2040-07-02,Canada Day (Observed),Canada,2040
+2040-08-06,Civic Holiday,Canada,2040
+2040-09-03,Labour Day,Canada,2040
+2040-10-08,Thanksgiving,Canada,2040
+2040-12-25,Christmas Day,Canada,2040
+2040-12-26,Boxing Day,Canada,2040
+2041-01-01,New Year's Day,Canada,2041
+2041-02-18,Family Day,Canada,2041
+2041-04-19,Good Friday,Canada,2041
+2041-05-20,Victoria Day,Canada,2041
+2041-07-01,Canada Day,Canada,2041
+2041-08-05,Civic Holiday,Canada,2041
+2041-09-02,Labour Day,Canada,2041
+2041-10-14,Thanksgiving,Canada,2041
+2041-12-25,Christmas Day,Canada,2041
+2041-12-26,Boxing Day,Canada,2041
+2042-01-01,New Year's Day,Canada,2042
+2042-02-17,Family Day,Canada,2042
+2042-04-04,Good Friday,Canada,2042
+2042-05-19,Victoria Day,Canada,2042
+2042-07-01,Canada Day,Canada,2042
+2042-08-04,Civic Holiday,Canada,2042
+2042-09-01,Labour Day,Canada,2042
+2042-10-13,Thanksgiving,Canada,2042
+2042-12-25,Christmas Day,Canada,2042
+2042-12-26,Boxing Day,Canada,2042
+2043-01-01,New Year's Day,Canada,2043
+2043-02-16,Family Day,Canada,2043
+2043-03-27,Good Friday,Canada,2043
+2043-05-18,Victoria Day,Canada,2043
+2043-07-01,Canada Day,Canada,2043
+2043-08-03,Civic Holiday,Canada,2043
+2043-09-07,Labour Day,Canada,2043
+2043-10-12,Thanksgiving,Canada,2043
+2043-12-25,Christmas Day,Canada,2043
+2043-12-28,Boxing Day (Observed),Canada,2043
+2044-01-01,New Year's Day,Canada,2044
+2044-02-15,Family Day,Canada,2044
+2044-04-15,Good Friday,Canada,2044
+2044-05-23,Victoria Day,Canada,2044
+2044-07-01,Canada Day,Canada,2044
+2044-08-01,Civic Holiday,Canada,2044
+2044-09-05,Labour Day,Canada,2044
+2044-10-10,Thanksgiving,Canada,2044
+2044-12-25,Christmas Day,Canada,2044
+2044-12-26,Christmas Day (Observed),Canada,2044
+2044-12-27,Boxing Day (Observed),Canada,2044
